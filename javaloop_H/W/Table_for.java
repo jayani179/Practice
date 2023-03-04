@@ -7,7 +7,7 @@ public class Table_for {
 
         for(cnt=1;cnt<=10;cnt++)
         {
-            System.out.println(num+" * "+cnt+" = "+num*cnt);
+            System.out.println(num + " * " + cnt + " = " + num*cnt);
         }
     }
 }
